@@ -64,15 +64,18 @@ The agent captures a screenshot after each action, analyzes the new state, and i
 <div align="center">
 
 ### Streamlit Dashboard
-The intuitive web interface for running QA tests:
 
-| Configuration | Test Execution | Results |
-|:---:|:---:|:---:|
-| Device connection | Real-time logs | Pass/Fail status |
-| Model selection | Step progress | Screenshots |
-| Prompt input | Action preview | Metrics |
+<img src="assets/demo-screenshot.png" alt="AI App Tester Agent Dashboard" width="900"/>
+
+*The intuitive web interface for AI-powered QA testing*
 
 </div>
+
+#### Features Shown:
+- ✅ **Device Status** - Real-time connection monitoring
+- ✅ **Vision LLM** - Meta Llama 4 Maverick model integration
+- ✅ **Test Results** - Step-by-step execution with screenshots
+- ✅ **Natural Language** - Describe tests in plain English
 
 ---
 
