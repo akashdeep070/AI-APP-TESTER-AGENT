@@ -1,0 +1,24 @@
+# TestRun AI - Dependencies
+# Core
+jinja2>=3.1.0
+streamlit>=1.30.0
+
+# Visual diff
+pillow>=10.0.0
+scikit-image>=0.22.0
+numpy>=1.24.0
+
+# DroidRun (Android automation)
+# Install with extras: pip install 'droidrun[google]'
+droidrun>=0.4.0
+
+# LLM - Groq API (moonshotai/kimi-k2-instruct)
+groq>=0.4.0
+
+# Alternative LLM providers (optional, pick one)
+# llama-index-llms-google-genai  # For Gemini
+# openai                           # For OpenAI
+# anthropic                        # For Claude
+# llama-index-llms-google-genai  # For Gemini
+# openai                           # For OpenAI
+# anthropic                        # For Claude

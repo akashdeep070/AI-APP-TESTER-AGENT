@@ -1,0 +1,27 @@
+# Environment
+.env
+.env.local
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Project artifacts
+artifacts/
+recordings/
+
+# Web demo outputs
+web_demo/screenshots/
+web_demo/results/
+web_demo/visual_diff/
+
+# macOS
+.DS_Store
+*.swp
+
+# IDE
+.vscode/
+.idea/
